@@ -4,7 +4,7 @@
  */
 public class Entrada
 {
-    public static void main()
+    public static void main(String[] args)
     {
         
         //Retangulo C = new Retangulo();
